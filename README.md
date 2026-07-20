@@ -6,7 +6,7 @@ Self-hosted DNS infrastructure for a home network, deployed as part of an ongoin
 
 This project documents my Technitium DNS Server deployment as part of a self-hosted homelab. It's used for internal/external name resolution and DNS-layer threat filtering across my home network.
 
-Note: This is an on-going personal project at the moment. This file will be updated as changes are made to the DNS Server.
+*Note: This is an on-going personal project at the moment. This file will be updated as changes are made to the DNS Server.*
 
 ## What is Technitium?
 
