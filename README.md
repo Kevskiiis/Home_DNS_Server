@@ -1,2 +1,3 @@
 # Technitium DNS Server
 
+## Architecture
