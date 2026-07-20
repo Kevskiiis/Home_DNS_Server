@@ -41,7 +41,7 @@ Current configuration on the Raspberry Pi:
 - Blocked responses are cached for 30 seconds before clearing.
 
 **Blocklist subscription**
-- Source: [StevenBlack/hosts — gambling-porn list](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-porn/hosts)
+- Source: [StevenBlack list](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-porn/hosts)
 - Covers malware, gambling, adware, and adult content domains.
 - No custom domains blocked manually yet — relying entirely on the subscribed list.
 - List auto-updates every 24 hours.
